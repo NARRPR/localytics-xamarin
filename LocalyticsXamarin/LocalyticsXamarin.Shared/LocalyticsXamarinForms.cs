@@ -1,4 +1,4 @@
-﻿using System;
+﻿/*using System;
 using System.Diagnostics;
 using LocalyticsSample.Shared;
 using LocalyticsXamarin.Common;
@@ -180,4 +180,4 @@ namespace LocalyticsXamarin.Shared
 #endif
         }
     }
-}
+}*/
